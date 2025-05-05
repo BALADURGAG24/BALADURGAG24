@@ -233,32 +233,27 @@
 📁 [View All Certificates on Google Drive](https://drive.google.com/drive/folders/1rImlgjoftzjWV3EF019c0pEJLWLOFSm5?usp=drive_link)
 
 - **AI & Data Science**
-  - *AI in Healthcare* – Great Learning
-  - *Build Website with AI* – Simplilearn
-  - *CS205: Building with Artificial Intelligence* – Saylor Academy
-  - *Data Science & Analytics* – HP Foundation
-  - *Start Your Data Analysis Journey: Build Your Own Movie Recommendation System* – OpenWeaver
+- **Start Your Data Analysis Journey: Build Your Own Movie Recommendation System* – OpenWeaver 
+- *Data Science Foundations* – Great Learning  
+- *Introduction to Analytics* – Great Learning  
+- *Introduction to Data Science* – Great Learning  
+- *Introduction to Deep Learning* – Great Learning  
+- *Introduction to Natural Language Processing* – Great Learning  
+- *Prompt Engineering for ChatGPT* – Great Learning  
+- *Python for Data Analysis* – Great Learning  
+- *Python for Data Science* – Great Learning  
+- *Machine Learning Algorithms* – Great Learning  
 
 - **Cybersecurity & Networking**
-  - *Introduction to Cybersecurity Certificate* – Cisco Networking Academy
-  - *Cybersecurity Essentials Certificate* – Cisco Networking Academy
-  - *CCNA: Introduction to Networks Certificate* – Cisco Networking Academy
-  - *CS402: Computer Communications and Networks* – Saylor Academy
-  - *CS406: Information Security* – Saylor Academy
+- *Partner: PCAP – Programming Essentials in Python Certificate* – Cisco Networking Academy  
+- *CCNA: Enterprise Networking, Security, and Automation Certificate* – Cisco Networking Academy  
+- *CCNA: Introduction to Networks Certificate* – Cisco Networking Academy  
+- *CCNA: Switching, Routing, and Wireless Essentials Certificate* – Cisco Networking Academy  
+- *Introduction to Cybersecurity Certificate* – Cisco Networking Academy  
+- *Cybersecurity Essentials Certificate* – Cisco Networking Academy  
 
-- **Computer Science**
-  - *CS105: Introduction to Python* – Saylor Academy
-  - *CS201: Elementary Data Structures* – Saylor Academy
-  - *CS301: Computer Architecture* – Saylor Academy
-  - *CS401: Operating Systems* – Saylor Academy
-
-- **AWS & Cloud**
-  - *AWS Cloud Practitioner Essentials* – AWS
-  - *Configure and Deploy AWS Client VPN* – AWS
-  - *Introduction to Amazon Certificate Manager Private Certificate Authority* – AWS
-
-- **Robotics**
-  - *Robotics and AI* – Great Learning
+- **Web Development**
+- *Front End Development – HTML* – Great Learning  
 
 ---
 
