@@ -233,27 +233,27 @@
 📁 [View All Certificates on Google Drive](https://drive.google.com/drive/folders/1rImlgjoftzjWV3EF019c0pEJLWLOFSm5?usp=drive_link)
 
 - **AI & Data Science**
-- **Start Your Data Analysis Journey: Build Your Own Movie Recommendation System* – OpenWeaver 
-- *Data Science Foundations* – Great Learning  
-- *Introduction to Analytics* – Great Learning  
-- *Introduction to Data Science* – Great Learning  
-- *Introduction to Deep Learning* – Great Learning  
-- *Introduction to Natural Language Processing* – Great Learning  
-- *Prompt Engineering for ChatGPT* – Great Learning  
-- *Python for Data Analysis* – Great Learning  
-- *Python for Data Science* – Great Learning  
-- *Machine Learning Algorithms* – Great Learning  
+  - *Start Your Data Analysis Journey: Build Your Own Movie Recommendation System* – OpenWeaver 
+  - *Data Science Foundations* – Great Learning  
+  - *Introduction to Analytics* – Great Learning  
+  - *Introduction to Data Science* – Great Learning  
+  - *Introduction to Deep Learning* – Great Learning  
+  - *Introduction to Natural Language Processing* – Great Learning  
+  - *Prompt Engineering for ChatGPT* – Great Learning  
+  - *Python for Data Analysis* – Great Learning  
+  - *Python for Data Science* – Great Learning  
+  - *Machine Learning Algorithms* – Great Learning  
 
 - **Cybersecurity & Networking**
-- *Partner: PCAP – Programming Essentials in Python Certificate* – Cisco Networking Academy  
-- *CCNA: Enterprise Networking, Security, and Automation Certificate* – Cisco Networking Academy  
-- *CCNA: Introduction to Networks Certificate* – Cisco Networking Academy  
-- *CCNA: Switching, Routing, and Wireless Essentials Certificate* – Cisco Networking Academy  
-- *Introduction to Cybersecurity Certificate* – Cisco Networking Academy  
-- *Cybersecurity Essentials Certificate* – Cisco Networking Academy  
+  - *Partner: PCAP – Programming Essentials in Python Certificate* – Cisco Networking Academy  
+  - *CCNA: Enterprise Networking, Security, and Automation Certificate* – Cisco Networking Academy  
+  - *CCNA: Introduction to Networks Certificate* – Cisco Networking Academy  
+  - *CCNA: Switching, Routing, and Wireless Essentials Certificate* – Cisco Networking Academy  
+  - *Introduction to Cybersecurity Certificate* – Cisco Networking Academy  
+  - *Cybersecurity Essentials Certificate* – Cisco Networking Academy  
 
 - **Web Development**
-- *Front End Development – HTML* – Great Learning  
+  - *Front End Development – HTML* – Great Learning  
 
 ---
 
