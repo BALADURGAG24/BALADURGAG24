@@ -116,15 +116,10 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BALADURGAG24&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BALADURGAG24&show_icons=true&theme=tokyonight&hide_title=false" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALADURGAG24&layout=compact&theme=tokyonight" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BALADURGAG24&show_icons=true&theme=tokyonight&hide_title=false" /> </p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALADURGAG24&layout=compact&theme=tokyonight" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=BALADURGAG24&theme=tokyonight&margin-w=10&row=2&column=3" /> </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=BALADURGAG24&style=flat-square&color=blue" alt="Profile Views" /> </p>
 
 ---
 
