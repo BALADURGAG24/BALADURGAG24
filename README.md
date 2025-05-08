@@ -11,9 +11,19 @@
 
 ## Hi there 👋 I'm Baladurga G
 
-🎓 B.Tech in Artificial Intelligence and Data Science @ Sri Krishna College of Technology  
-💡 Passionate about building real-world tech solutions with AI, full-stack web apps, and cloud platforms  
-🌱 Continuously learning and leveling up through hands-on projects and certifications
+🎓 B.Tech in Artificial Intelligence & Data Science | Sri Krishna College of Technology
+💡 Passionate about building real-world tech solutions using AI, full-stack development, and cloud platforms
+🚀 Always exploring and leveling up through hands-on projects, certifications, and continuous learning
+
+🔧 Currently working with:
+
+- Full-stack web apps (React, Flask, Spring Boot)
+  
+- AI/ML models and algorithms
+
+- Cloud & DevOps (AWS, CI/CD pipelines)
+
+- Data engineering & analytics (Python, SQL/NoSQL databases)
 
 ---
 
@@ -120,16 +130,6 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALADURGAG24&layout=compact&theme=tokyonight" /> </p>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=BALADURGAG24&theme=tokyonight&margin-w=10&row=2&column=3" /> </p> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=BALADURGAG24&style=flat-square&color=blue" alt="Profile Views" /> </p>
-
----
-
-### 🌱 I'm always learning new technologies, and I'm currently working on projects involving:
-
-- AI/ML algorithms and models
-- Full-stack web applications with React, Next.js, Flask, and Spring Boot
-- Cloud infrastructure using AWS, Docker, and Kubernetes
-- CI/CD pipelines and DevOps practices
-- Data engineering and analytics with Python, Jupyter, and databases
 
 ---
 
