@@ -293,15 +293,6 @@ Government Girls Higher Secondary School, Sivaganga
 📅 June 2018 - Mar 2019  
 📈 67%
 
----
-
-# 📄 Resume
-
-You can view and download my latest resume from the link below:
-
-- [📄 Download Resume](https://drive.google.com/file/d/12N42Fvg0cH1hie51BTL1wa80-yeexQSi/view?usp=drive_link)
-
-Feel free to reach out if you'd like to discuss any of the experience listed in my resume!
 
 ---
 
