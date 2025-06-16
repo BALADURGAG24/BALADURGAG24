@@ -140,3 +140,4 @@
 > 🧠 *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=BALADURGAG24&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
