@@ -62,7 +62,7 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/baladurga-
 
 ---
 
-⚡ **Fun Fact**: This fun fact is still in beta. Please send feedback to my overworked brain.
+>⚡ **Fun Fact**: This fun fact is still in beta. Please send feedback to my overworked brain.
 
 ---
 
@@ -197,7 +197,7 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/baladurga-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BALADURGAG24&theme=algolia" alt="trophies" />
 </p>
-
+ 
 
 ## 🔥 GitHub Streaks
 <p align="center">
