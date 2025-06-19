@@ -29,7 +29,7 @@ Tech professional with a B.Tech in Artificial Intelligence and Data Science from
 ---
 
 🌟 **Currently Working On**
-- 🔨 [Job Portal](https://github.com/BALADURGAG24/jobportal-springboot-react) – A full-stack job portal using React & Spring Boot
+- 🔨 [Job Portal](https://github.com/BALADURGAG24/job-portal-react-springboot) – A full-stack job portal using React & Spring Boot
 
 🤝 **Open to Collaborate On**
 - 🗣️ [Storytelling Platform](https://github.com/BALADURGAG24/storytelling-platform-react-springboot) – A speech-enabled content sharing web app
