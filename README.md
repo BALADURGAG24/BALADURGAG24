@@ -201,7 +201,8 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/baladurga-
 
 ## 🔥 GitHub Streaks
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baladurgag24&theme=dark" alt="streak-stats" />
+  <img src="https://streak-stats.demolab.com/?user=BALADURGAG24&theme=dark" alt="streak-stats" />
+  <img src="https://streak-stats.demolab.com/?user=HARIHARANS24&theme=dark" alt="streak-stats" />
 </p>
 
 
