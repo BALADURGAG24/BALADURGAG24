@@ -240,8 +240,11 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/baladurga-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BALADURGAG24&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 </p>
 
-🎮 Snake Contribution Graph
-<img src="https://raw.githubusercontent.com/BALADURGAG24/BALADURGAG24/output/snake.svg" alt="Snake animation" />
+## 🎮 Snake Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BALADURGAG24/BALADURGAG24/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
