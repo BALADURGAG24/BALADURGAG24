@@ -191,62 +191,53 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/baladurga-
 </table>
 </div>
 
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BALADURGAG24&theme=algolia" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=baladurgag24&theme=algolia" alt="trophies" />
 </p>
- 
 
 ## 🔥 GitHub Streaks
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baladurgag24&theme=dark" alt="streak-stats" />
 </p>
 
-
 ## 📊 GitHub Stats
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=BALADURGAG24&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=baladurgag24&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/BALADURGAG24/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Statistics" />
+      <img src="https://raw.githubusercontent.com/baladurgag24/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Statistics" />
     </td>
   </tr>
 </table>
 </div>
-
 
 ## 🚀 Most Used Languages
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALADURGAG24&layout=compact&theme=radical" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baladurgag24&layout=compact&theme=radical" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/BALADURGAG24/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages by File Size" />
+      <img src="https://raw.githubusercontent.com/baladurgag24/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages by File Size" />
     </td>
   </tr>
 </table>
 </div>
 
-
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BALADURGAG24&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baladurgag24&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 </p>
 
 ## 🎮 Snake Contribution Graph
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BALADURGAG24/BALADURGAG24/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/baladurgag24/baladurgag24/output/snake.svg" alt="Snake animation" />
 </div>
-
-###
 
 ---
 
@@ -255,5 +246,3 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/baladurga-
 </p>
 
 > 🧠 *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
-
----
