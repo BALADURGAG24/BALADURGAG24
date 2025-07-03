@@ -6,7 +6,7 @@
 <h3 align="center">👨‍💻 Full-Stack Developer | 📊 Data Science & Analytics Engineer | 🤖 AI/ML Practitioner | 🇮🇳 India</h3>
 <div align="center">
   <table>
-    <tr>
+    <tr> 
       <td>
         <img src="https://komarev.com/ghpvc/?username=BALADURGAG24&color=blue" alt="Profile views" /> 
       </td> 
