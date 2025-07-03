@@ -7,7 +7,7 @@
 <div align="center">
   <table>
     <tr> 
-      <td>
+      <td> 
         <img src="https://komarev.com/ghpvc/?username=BALADURGAG24&color=blue" alt="Profile views" /> 
       </td> 
       <td>
