@@ -10,7 +10,7 @@
       <td>  
         <img src="https://komarev.com/ghpvc/?username=BALADURGAG24&color=blue" alt="Profile views" /> 
       </td>  
-      <td>
+      <td> 
         <a href="https://www.buymeacoffee.com/baladurga22" target="_blank" rel="noreferrer">
           <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
         </a> 
