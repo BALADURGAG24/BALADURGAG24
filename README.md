@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm BALADURGA G</h1>    
 <h3 align="center">👨‍💻 Full-Stack Developer | 📊 Data Science & Analytics Engineer | 🤖 AI/ML Practitioner | 🇮🇳 India</h3>
 <div align="center"> 
-  <table>
+  <table> 
     <tr>   
       <td>  
         <img src="https://komarev.com/ghpvc/?username=BALADURGAG24&color=blue" alt="Profile views" /> 
