@@ -55,7 +55,7 @@ baladurga2412@gmail.com
 [Portfolio](https://baladurga-portfolio.web.app/)
 
 📄 **View My Resume**
-[Click here](https://drive.google.com/file/d/1TNd6wKYkCJq4nNhKyEaM8oVGrgeRQh3o/view?usp=drive_link)
+[Click here](https://drive.google.com/file/d/1A8wjSgYKZN0J-_i2o6fuc9b5Ag_icyZE/view?usp=drive_link)
 
 📝 **Certifications & Learning Path**
 Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/baladurga-g24)
