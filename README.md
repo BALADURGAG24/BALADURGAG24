@@ -206,24 +206,10 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/baladurga-
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=baladurgag24&theme=radical" alt="GitHub Stats" />
+      <img src="https://raw.githubusercontent.com/baladurgag24/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages by File Size" />
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/baladurgag24/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Statistics" />
-    </td>
-  </tr>
-</table>
-</div>
-
-## 🚀 Most Used Languages
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baladurgag24&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/baladurgag24/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages by File Size" />
     </td>
   </tr>
 </table>
