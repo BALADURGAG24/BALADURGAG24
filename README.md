@@ -206,10 +206,10 @@ Explore my learning journey on [LinkedIn](https://www.linkedin.com/in/baladurga-
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/baladurgag24/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages by File Size" />
+      <img src="https://raw.githubusercontent.com/baladurgag24/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Statistics" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/baladurgag24/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Statistics" />
+      <img src="https://raw.githubusercontent.com/baladurgag24/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages by File Size" />
     </td>
   </tr>
 </table>
